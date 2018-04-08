@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Listado de discos -->
+	
+	<discos>
+	  <disco creador="Gerardo">
+		<grupo>Metallica</grupo>
+		<genero>Trash metal</genero>
+		<nombredisco>Kill´em all</nombredisco>
+		<datos>
+		  <año>1983</año>
+		  <no_tracks>12</no_tracks>
+		  <tiempoduracion>202</tiempoduracion>
+		  <sellodiscografico>Records01</sellodiscografico>
+		</datos>
+	  </disco>
+
+	  <disco creador="Gerardo">
+		<grupo>Grupo 02</grupo>
+		<genero>Genero 02</genero>
+		<nombredisco>Disco 02</nombredisco>
+		<datos>
+		  <año>1990</año>
+		  <no_tracks>12</no_tracks>
+		  <tiempoduracion>230</tiempoduracion>
+		  <sellodiscografico>xx Records02</sellodiscografico>
+		</datos>
+	  </disco>
+
+	  <disco creador="Gerardo">
+		<grupo>Grupo 03</grupo>
+		<genero>Genero 03</genero>
+		<nombredisco>Disco 03</nombredisco>
+		<datos>
+		  <año>1990</año>
+		  <no_tracks>12</no_tracks>
+		  <tiempoduracion>230</tiempoduracion>
+		  <sellodiscografico>xx Records03</sellodiscografico>
+		</datos>
+	  </disco>
+
+	  <disco creador="Gerardo">
+		<grupo>Grupo 04</grupo>
+		<genero>Genero 04</genero>
+		<nombredisco>Disco 04</nombredisco>
+		<datos>
+		  <año>1990</año>
+		  <no_tracks>12</no_tracks>
+		  <tiempoduracion>230</tiempoduracion>
+		  <sellodiscografico>xx Records04</sellodiscografico>
+		</datos>
+	  </disco>
+
+	  <disco creador="Gerardo">
+		<grupo>Grupo 05</grupo>
+		<genero>Genero 05</genero>
+		<nombredisco>Disco 05</nombredisco>
+		<datos>
+		  <año>1990</año>
+		  <no_tracks>12</no_tracks>
+		  <tiempoduracion>230</tiempoduracion>
+		  <sellodiscografico>xx Records05</sellodiscografico>
+		</datos>
+	  </disco>
+
+	  <disco creador="Gerardo">
+		<grupo>Grupo 06</grupo>
+		<genero>Genero 06</genero>
+		<nombredisco>Disco 06</nombredisco>
+		<datos>
+		  <año>1990</año>
+		  <no_tracks>12</no_tracks>
+		  <tiempoduracion>230</tiempoduracion>
+		  <sellodiscografico>xx Records06</sellodiscografico>
+		</datos>
+	  </disco>
+
+	  <disco creador="Gerardo">
+		<grupo>Grupo 07</grupo>
+		<genero>Genero 07</genero>
+		<nombredisco>Disco 07</nombredisco>
+		<datos>
+		  <año>1990</año>
+		  <no_tracks>12</no_tracks>
+		  <tiempoduracion>230</tiempoduracion>
+		  <sellodiscografico>xx Records07</sellodiscografico>
+		</datos>
+	  </disco>
+
+	  <disco creador="Gerardo">
+		<grupo>Grupo 08</grupo>
+		<genero>Genero 08</genero>
+		<nombredisco>Disco 08</nombredisco>
+		<datos>
+		  <año>1990</año>
+		  <no_tracks>12</no_tracks>
+		  <tiempoduracion>230</tiempoduracion>
+		  <sellodiscografico>xx Records08</sellodiscografico>
+		</datos>
+	  </disco>
+
+	  <disco creador="Gerardo">
+		<grupo>Grupo 09</grupo>
+		<genero>Genero 09</genero>
+		<nombredisco>Disco 09</nombredisco>
+		<datos>
+		  <año>1990</año>
+		  <no_tracks>12</no_tracks>
+		  <tiempoduracion>230</tiempoduracion>
+		  <sellodiscografico>xx Records09</sellodiscografico>
+		</datos>
+	  </disco>
+
+	  <disco creador="Gerardo">
+		<grupo>Grupo 10</grupo>
+		<genero>Genero 10</genero>
+		<nombredisco>Disco 10</nombredisco>
+		<datos>
+		  <año>1991</año>
+		  <no_tracks>15</no_tracks>
+		  <tiempoduracion>230</tiempoduracion>
+		  <sellodiscografico>xx Records0910</sellodiscografico>
+		</datos>
+	  </disco>
+	</discos>

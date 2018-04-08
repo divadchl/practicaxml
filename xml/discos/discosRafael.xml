@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Listado de discos -->
+
+	<discos>
+	   <disco creador="Rafael">
+			<grupo>Armin Buuren</grupo>
+			<genero>Elecronica</genero>
+			<nombredisco>Embrace</nombredisco>
+			<datos>
+				<año>2015</año>
+				<no_tracks>25</no_tracks>
+				<tiempoduracion>70 min</tiempoduracion>
+				<sellodiscografico>Armada Music</sellodiscografico>
+			</datos>
+		</disco>
+
+		<disco creador="Rafael">
+			<grupo>Artic Monkeys</grupo>
+			<genero>Rock en ingles</genero>
+			<nombredisco>AM</nombredisco>
+			<datos>
+				<año>2013</año>
+				<no_tracks>12</no_tracks>
+				<tiempoduracion>75 min</tiempoduracion>
+				<sellodiscografico>Domino Records</sellodiscografico>
+			</datos>
+		</disco>
+
+		<disco creador="Rafael">
+			<grupo>Bunkers</grupo>
+			<genero>Rock en español</genero>
+			<nombredisco>Musica libre</nombredisco>
+			<datos>
+				<año>2013</año>
+				<no_tracks>11</no_tracks>
+				<tiempoduracion>60 min</tiempoduracion>
+				<sellodiscografico>Evolucion Records</sellodiscografico>
+			</datos>
+		</disco>
+
+		<disco creador="Rafael">
+			<grupo>Tigres del norte</grupo>
+			<genero>Norteñó</genero>
+			<nombredisco>Jaula de Oro</nombredisco>
+			<datos>
+				<año>1984</año>
+				<no_tracks>18</no_tracks>
+				<tiempoduracion>70 min</tiempoduracion>
+				<sellodiscografico>Deezer</sellodiscografico>
+			</datos>
+		</disco>
+
+		<disco creador="Rafael">
+			<grupo>La castañeda</grupo>
+			<genero>Rock en español</genero>
+			<nombredisco>El globo negro</nombredisco>
+			<datos>
+				<año>1995</año>
+				<no_tracks>16</no_tracks>
+				<tiempoduracion>56 min</tiempoduracion>
+				<sellodiscografico>Culebra Records</sellodiscografico>
+			</datos>
+		</disco>
+
+		<disco creador="Rafael">
+			<grupo>Liran roll</grupo>
+			<genero>Rock nacional</genero>
+			<nombredisco>Va por ti</nombredisco>
+			<datos>
+				<año>2014</año>
+				<no_tracks>18</no_tracks>
+				<tiempoduracion>64 min</tiempoduracion>
+				<sellodiscografico>Discos y cintas denver</sellodiscografico>
+			</datos>
+		</disco>
+
+		<disco creador="Rafael">
+			<grupo>Heroes del silencio</grupo>
+			<genero>Rock en español</genero>
+			<nombredisco>Senderos de Traicion</nombredisco>
+			<datos>
+				<año>1990</año>
+				<no_tracks>20</no_tracks>
+				<tiempoduracion>65 min</tiempoduracion>
+				<sellodiscografico>EMI</sellodiscografico>
+			</datos>
+		</disco>
+
+		<disco creador="Rafael">
+			<grupo>Zoe</grupo>
+			<genero>Rock</genero>
+			<nombredisco>Rocanlover</nombredisco>
+			<datos>
+				<año>2003</año>
+				<no_tracks>16</no_tracks>
+				<tiempoduracion>56 min</tiempoduracion>
+				<sellodiscografico>Sony Music</sellodiscografico>
+			</datos>
+		</disco>
+
+		<disco creador="Rafael">
+			<grupo>Romanticos de Zacatecas</grupo>
+			<genero>Rock</genero>
+			<nombredisco>Muchacha</nombredisco>
+			<datos>
+				<año>2010</año>
+				<no_tracks>13</no_tracks>
+				<tiempoduracion>45 min</tiempoduracion>
+				<sellodiscografico>EP</sellodiscografico>
+			</datos>
+		</disco>
+
+		<disco creador="Rafael">
+			<grupo>Babasonicos</grupo>
+			<genero>Rock</genero>
+			<nombredisco>Infame</nombredisco>
+			<datos>
+				<año>2003</año>
+				<no_tracks>15</no_tracks>
+				<tiempoduracion>60 min</tiempoduracion>
+				<sellodiscografico>Bultaco records</sellodiscografico>
+			</datos>
+		</disco>
+	</discos>

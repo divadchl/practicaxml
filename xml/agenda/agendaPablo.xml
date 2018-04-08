@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Listado de contactos -->
+
+	<agenda creador = "Pablo">
+		<contacto creador="Pablo">
+				<nombre>Pablo ALberto Cigarrero Lopez</nombre>
+				<numero tipo="Celular">5560697788</numero>
+				<email>pabloalbertocigarrero@gmail.com</email>
+			<direccion>
+				<calle>Calle Rosario </calle>
+				<numero>s/n</numero>
+				<colonia>San Miguel de los Jagueyes</colonia>
+				<estado>Mexico</estado>
+			</direccion>
+		</contacto>
+			<contacto creador="Pablo">
+				<nombre>Ernesto Dalesio Perez</nombre>
+				<numero tipo="Celular">55471289657</numero>
+				<email>eduardo_sva@hotmail.com</email>
+			<direccion>
+				<calle>Rosas el toreo</calle>
+				<numero>20</numero>
+				<colonia>El potrero</colonia>
+				<estado>Mexico</estado>
+			</direccion>
+		</contacto>
+			<contacto creador="Pablo">
+				<nombre>Juan Pablo Cigarrero Lopez</nombre>
+				<numero tipo="Celular">5531587496</numero>
+				<email>brayan.uri@gmail.com</email>
+			<direccion>
+				<calle>Santa teresa</calle>
+				<numero>1</numero>
+				<colonia>Teresa</colonia>
+				<estado>Mexico</estado>
+			</direccion>
+		</contacto>
+			<contacto creador="Pablo">
+				<nombre>Katia Lopez Perez</nombre>
+				<numero tipo="Celular">5512684923</numero>
+				<email>freddy_valdezg@gmail.com</email>
+			<direccion>
+				<calle>San benito</calle>
+				<numero>96</numero>
+				<colonia>Ecatepec</colonia>
+				<estado>Mexico</estado>
+			</direccion>
+		</contacto>
+			<contacto creador="Pablo">
+				<nombre>Mauricio Garza Perez</nombre>
+				<numero tipo="Celular">5568945217</numero>
+				<email>fergem@hotmail.com</email>
+			<direccion>
+				<calle>Ruben salas</calle>
+				<numero>20</numero>
+				<colonia>Santa elena</colonia>
+				<estado>Mexico</estado>
+			</direccion>
+		</contacto>
+			<contacto creador="Pablo">
+				<nombre>Osiris Aldair</nombre>
+				<numero tipo="Celular">5585967423</numero>
+				<email>osiris_alda@hotmail.com</email>
+			<direccion>
+				<calle>Alamos</calle>
+				<numero>68</numero>
+				<colonia>Vicente Villada</colonia>
+				<estado>Mexico</estado>
+			</direccion>
+		</contacto>
+			<contacto creador="Pablo">
+				<nombre>Alma Rodriguez Perez</nombre>
+				<numero tipo="Celular">5547268974</numero>
+				<email>mich@hotmail.com</email>
+			<direccion>
+				<calle>Pentolitre</calle>
+				<numero>85</numero>
+				<colonia>Cuautitlan</colonia>
+				<estado>Mexico</estado>
+			</direccion>
+		</contacto>
+			<contacto creador="Pablo">
+				<nombre>Lizbeth Ortiz Arjona</nombre>
+				<numero tipo="Celular">5548759632</numero>
+				<email>liz_nnn@outlook.es</email>
+			<direccion>
+				<calle>Iztacala</calle>
+				<numero>89</numero>
+				<colonia>Iztacala</colonia>
+				<estado>Mexico</estado>
+			</direccion>
+		</contacto>
+			<contacto creador="Pablo">
+				<nombre>Manuel Carranza Benites</nombre>
+				<numero tipo="Celular">554721898</numero>
+				<email>noemi_testg@gmail.com</email>
+			<direccion>
+				<calle>San virgen</calle>
+				<numero>2</numero>
+				<colonia>Villa</colonia>
+				<estado>Distrito Federal</estado>
+			</direccion>
+		</contacto>
+			<contacto creador="Pablo">
+				<nombre>Piter Lopez Hernandez</nombre>
+				<numero tipo="Celular">5587962436</numero>
+				<email>ricky@hotmail.com</email>
+			<direccion>
+				<calle>San benitos</calle>
+				<numero>69</numero>
+				<colonia>San martin</colonia>
+				<estado>Mexico</estado>
+			</direccion>
+		</contacto>
+			<contacto creador="Pablo">
+				<nombre>Javier Solis Salas</nombre>
+				<numero tipo="Celular">5569832164</numero>
+				<email>marco@outlook.es</email>
+			<direccion>
+				<calle>Hidalgo</calle>
+				<numero>68</numero>
+				<colonia>Ecatepec</colonia>
+				<estado>Mexico</estado>
+			</direccion>
+		</contacto>
+
+	</agenda>
+	

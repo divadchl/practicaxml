@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Listado de contactos -->
+
+	<agenda>
+		<contacto creador="David">
+			<nombre>Adolfo Jiménez Alamaraz</nombre>
+			<numero tipo="oficina">55458945</numero>
+			<email>ajimenez@cortreo.com.mx</email>
+			<direccion>
+				<calle>Chihuahua</calle>
+				<numero>47</numero>
+				<colonia>Roma</colonia>
+				<estado>Ciudad de México</estado>
+			</direccion>
+		</contacto>
+		<contacto creador="David">
+			<nombre>Luis Navarro Ortega</nombre>
+			<numero tipo="movil">5584256894</numero>
+			<email>lnavarro@correo.com</email>
+			<direccion>
+				<calle>Frambuesa</calle>
+				<numero>71-A</numero>
+				<colonia>Nueva Santa María</colonia>
+				<estado>Ciudad de México</estado>
+			</direccion>
+		</contacto>
+		<contacto creador="David">
+			<nombre>Gustavo Martínez Benitez</nombre>
+			<numero tipo="casa">55254870</numero>
+			<email>gmartinez@correo.com</email>
+			<direccion>
+				<calle>San Cosme</calle>
+				<numero>MZ 80 Lt 16</numero>
+				<colonia>La Estación</colonia>
+				<estado>Ciudad de México</estado>
+			</direccion>
+		</contacto>
+		<contacto creador="David">
+			<nombre>José Antonio Suasnavar Lerdo de Tejada</nombre>
+			<numero tipo="movil">5543538978</numero>
+			<email>asuasnavar@correo.com</email>
+			<direccion>
+				<calle>Av. Paseo de la Reforma</calle>
+				<numero>505 Piso 28</numero>
+				<colonia>Cuauhtémoc</colonia>
+				<estado>Ciudad de México</estado>
+			</direccion>
+		</contacto>
+		<contacto creador="David">
+			<nombre>Vicente Velázquez Melendez</nombre>
+			<numero tipo="trabajo">55786652</numero>
+			<email>vvelazquez@correo.com</email>
+			<direccion>
+				<calle>Adelita</calle>
+				<numero>20</numero>
+				<colonia>Xalpa</colonia>
+				<estado>Ciudad de México</estado>
+			</direccion>
+		</contacto>
+		<contacto creador="David">
+			<nombre>Luis Gerardo Zepeda Davila</nombre>
+			<numero tipo="oficina">57169150</numero>
+			<email>gzepeda@correo.com</email>
+			<direccion>
+				<calle>Acordada</calle>
+				<numero>33 Interior 3</numero>
+				<colonia>San José Insurgentes</colonia>
+				<estado>Ciudad de México</estado>
+			</direccion>
+		</contacto>
+		<contacto creador="David">
+			<nombre>Fernando Arregui Ibarra</nombre>
+			<numero tipo="movil">5543538978</numero>
+			<email>farregui@correo.com.mx</email>
+			<direccion>
+				<calle>Nicolas San Juan</calle>
+				<numero>1246</numero>
+				<colonia>Del Valle</colonia>
+				<estado>Ciudad de México</estado>
+			</direccion>
+		</contacto>
+		<contacto creador="David">
+			<nombre>Jesús Antonio Gómez González</nombre>
+			<numero tipo="casa">55664589</numero>
+			<email>agomez@correo.com.mx</email>
+			<direccion>
+				<calle>Gardenia</calle>
+				<numero>MZ42 LT 6</numero>
+				<colonia>Lomas de San Lorenzo</colonia>
+				<estado>Ciudad de México</estado>
+			</direccion>
+		</contacto>
+		<contacto creador="David">
+			<nombre>Irene Rivera Miranda</nombre>
+			<numero tipo="oficina">55688722</numero>
+			<email>irivera@correo.com</email>
+			<direccion>
+				<calle>Av. Cuitláhuac</calle>
+				<numero>458 Interior E 2A D 403</numero>
+				<colonia>Unidad Cuitláhuac</colonia>
+				<estado>Ciudad de México</estado>
+			</direccion>
+		</contacto>
+	</agenda>
+	

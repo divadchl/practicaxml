@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Listado de discos -->
+	<discos>
+		<disco creador="David">
+			<grupo>Pink Floyd</grupo>
+			<genero>Progresivo</genero>
+			<nombredisco>Dark Side of the Moon</nombredisco>
+			<datos>
+				<año>1973</año>
+				<no_tracks>10</no_tracks>
+				<tiempoduracion>35:30</tiempoduracion>
+				<sellodiscografico>Sony Music</sellodiscografico>
+			</datos>
+		</disco>
+		<disco creador="David">
+			<grupo>Pink Floyd</grupo>
+			<genero>Progresivo</genero>
+			<nombredisco>The Wall</nombredisco>
+			<datos>
+				<año>1979</año>
+				<no_tracks>26</no_tracks>
+				<tiempoduracion>120:35</tiempoduracion>
+				<sellodiscografico>Sony Music</sellodiscografico>
+			</datos>
+		</disco>
+		<disco creador="David">
+			<grupo>The Doors</grupo>
+			<genero>Rock</genero>
+			<nombredisco>The Doors</nombredisco>
+			<datos>
+				<año>2007</año>
+				<no_tracks>14</no_tracks>
+				<tiempoduracion>45:25</tiempoduracion>
+				<sellodiscografico>Warner Music México</sellodiscografico>
+			</datos>
+		</disco>
+		<disco creador="David">
+			<grupo>The Alan Parsons Project</grupo>
+			<genero>Rock</genero>
+			<nombredisco>Eye in the Sky</nombredisco>
+			<datos>
+				<año>2007</año>
+				<no_tracks>16</no_tracks>
+				<tiempoduracion>40:26</tiempoduracion>
+				<sellodiscografico>Sbme Special Mkts</sellodiscografico>
+			</datos>
+		</disco>
+		<disco creador="David">
+			<grupo>Led Zeppelin</grupo>
+			<genero>Rock</genero>
+			<nombredisco>Led Zeppelin IV</nombredisco>
+			<datos>
+				<año>2014</año>
+				<no_tracks>16</no_tracks>
+				<tiempoduracion>45:10</tiempoduracion>
+				<sellodiscografico>Warner Music México</sellodiscografico>
+			</datos>
+		</disco>
+		<disco creador="David">
+			<grupo>The Rolling Stones</grupo>
+			<genero>Progresivo</genero>
+			<nombredisco>Blue &amp; Lonesome</nombredisco>
+			<datos>
+				<año>2016</año>
+				<no_tracks>12</no_tracks>
+				<tiempoduracion>52:53</tiempoduracion>
+				<sellodiscografico>Polydor</sellodiscografico>
+			</datos>
+		</disco>
+		<disco creador="David">
+			<grupo>Rod Stewart</grupo>
+			<genero>Pop</genero>
+			<nombredisco>Some Guys Have All the Luck: Best of</nombredisco>
+			<datos>
+				<año>2008</año>
+				<no_tracks>32</no_tracks>
+				<tiempoduracion>72:45</tiempoduracion>
+				<sellodiscografico>Warner Music México</sellodiscografico>
+			</datos>
+		</disco>
+		<disco creador="David">
+			<grupo>Creedence Clearwater Revival</grupo>
+			<genero>Rock Country</genero>
+			<nombredisco>Ultimate Creedence Clearwater Revival: Greatest</nombredisco>
+			<datos>
+				<año>2012</año>
+				<no_tracks>52</no_tracks>
+				<tiempoduracion>125:52</tiempoduracion>
+				<sellodiscografico>Fantasy</sellodiscografico>
+			</datos>
+		</disco>
+		<disco creador="David">
+			<grupo>The Alan Parsons Project</grupo>
+			<genero>Rock</genero>
+			<nombredisco>Turn of a Friendly Card</nombredisco>
+			<datos>
+				<año>2007</año>
+				<no_tracks>17</no_tracks>
+				<tiempoduracion>51:48</tiempoduracion>
+				<sellodiscografico>Sbme Special Mkts</sellodiscografico>
+			</datos>
+		</disco>
+		<disco creador="David">
+			<grupo>The Alan Parsons Project</grupo>
+			<genero>Progresivo</genero>
+			<nombredisco>Vulture Culture</nombredisco>
+			<datos>
+				<año>2009</año>
+				<no_tracks>13</no_tracks>
+				<tiempoduracion>29:03</tiempoduracion>
+				<sellodiscografico>Sbme Special Mkts</sellodiscografico>
+			</datos>
+		</disco>
+	</discos>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Listado de libros -->
+	<libros>
+		<libro creador="Pablo">
+			<titulo>Programar Desde cero</titulo>
+			<autor>Javier Galindo Graw</autor>
+			<lenguaje>lenguaje c</lenguaje>
+			<informacion>
+				<editorial>santillana</editorial>
+				<año>2011</año>
+				<edicion>9na</edicion>
+				<pais>Mexico</pais>
+			</informacion>
+		</libro>
+
+		<libro creador="Pablo">
+			<titulo>La Mejor Programcion</titulo>
+			<autor>Carlos Orrantia</autor>
+			<lenguaje>lenguaje php</lenguaje>
+			<informacion>
+				<editorial>santillana</editorial>
+				<año>2011</año>
+				<edicion>9na</edicion>
+				<pais>Mexico</pais>
+			</informacion>
+		</libro>
+
+		<libro creador="Pablo">
+			<titulo>La Necesidad de Programar</titulo>
+			<autor>Katia Matina Perez</autor>
+			<lenguaje>lenguaje java</lenguaje>
+			<informacion>
+				<editorial>santillana</editorial>
+				<año>2011</año>
+				<edicion>9na</edicion>
+				<pais>Mexico</pais>
+			</informacion>
+		</libro>
+
+	<libro creador="Pablo">
+			<titulo>Quieres Programar</titulo>
+			<autor>Mariana Lopez Galindo</autor>
+			<lenguaje>lenguaje java</lenguaje>
+			<informacion>
+				<editorial>santillana</editorial>
+				<año>2011</año>
+				<edicion>9na</edicion>
+				<pais>Mexico</pais>
+			</informacion>
+		</libro>
+	</libros>

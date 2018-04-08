@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Listado de libros -->
+
+	<libros>
+		<libro creador="David">
+			<autor>	Jess Chadwick, Todd Snyder, Hrusikesh Panda</autor>
+			<titulo>Programming ASP.NET MVC 4</titulo>
+			<lenguaje>C#</lenguaje>
+			<informacion>
+				<editorial>O'Reilly Media</editorial>
+				<año>2012</año>
+				<edicion>First published</edicion>
+				<pais>UK</pais>
+			</informacion>
+		</libro>
+		<libro creador="David">
+			<autor>Pieter van der Westhuizen</autor>
+			<titulo>Bootstrap for ASP.NET MVC</titulo>
+			<lenguaje>VBA</lenguaje>
+			<informacion>
+				<editorial>Packt Publishing</editorial>
+				<año>2014</año>
+				<edicion>First published</edicion>
+				<pais>UK</pais>
+			</informacion>
+		</libro>
+		<libro creador="David">
+			<autor>	Alex Bretet</autor>
+			<titulo>Spring MVC Cookbook</titulo>
+			<lenguaje>C#</lenguaje>
+			<informacion>
+				<editorial>Packt Publishing</editorial>
+				<año>2016</año>
+				<edicion>First</edicion>
+				<pais>UK</pais>
+			</informacion>
+		</libro>
+		<libro creador="David">
+			<autor>Samuel Cook</autor>
+			<titulo>Learn JavaScript with p5.js</titulo>
+			<lenguaje>Engin Arslan</lenguaje>
+			<informacion>
+				<editorial>	Apress</editorial>
+				<año>2018</año>
+				<edicion>First</edicion>
+				<pais>Spain</pais>
+			</informacion>
+		</libro>
+		<libro creador="David">
+			<autor>Torres Remon, Manuel</autor>
+			<titulo>Programación Orientada a Objetos con Visual C# 2015 y ADO.NET 4.6</titulo>
+			<lenguaje>C#</lenguaje>
+			<informacion>
+				<editorial>MACRO</editorial>
+				<año>2016</año>
+				<edicion>Primera</edicion>
+				<pais>Perú</pais>
+			</informacion>
+		</libro>
+		<libro creador="David">
+			<autor>Raymond H. Dean</autor>
+			<titulo>Introducción a la Programación con JAVA</titulo>
+			<lenguaje>Java</lenguaje>
+			<informacion>
+				<editorial>The McGraw-Hill</editorial>
+				<año>2009</año>
+				<edicion>Primera</edicion>
+				<pais>México</pais>
+			</informacion>
+		</libro>
+		<libro creador="David">
+			<autor>Jesús Tomás</autor>
+			<titulo>El Gran libro de Android Avanzado</titulo>
+			<lenguaje>Java</lenguaje>
+			<informacion>
+				<editorial>MARCOMBO</editorial>
+				<año>2017</año>
+				<edicion>Tercera</edicion>
+				<pais>España</pais>
+			</informacion>
+		</libro>
+		<libro creador="David">
+			<autor>Rogers Cadenhead</autor>
+			<titulo>Java 6</titulo>
+			<lenguaje>Java</lenguaje>
+			<informacion>
+				<editorial>ANAYA Multimedia</editorial>
+				<año>2007</año>
+				<edicion>Primera</edicion>
+				<pais>España</pais>
+			</informacion>
+		</libro>
+		<libro creador="David">
+			<autor>Jesse Liberty</autor>
+			<titulo>Programación ASP.NET 3.5</titulo>
+			<lenguaje>C#</lenguaje>
+			<informacion>
+				<editorial>ANAYA Multimedia</editorial>
+				<año>2009</año>
+				<edicion>Primera</edicion>
+				<pais>España</pais>
+			</informacion>
+		</libro>
+		<libro creador="David">
+			<autor>Gustavo Coronel</autor>
+			<titulo>PHP Profesional</titulo>
+			<lenguaje>PHP</lenguaje>
+			<informacion>
+				<editorial>MACRO</editorial>
+				<año>2010</año>
+				<edicion>Primera</edicion>
+				<pais>Perú</pais>
+			</informacion>
+		</libro>
+	</libros>

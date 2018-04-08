@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Listado de contactos -->
+
+	<agenda>
+	  <contacto creador="Gerardo">
+		<nombre>Contacto 01</nombre>  
+		<numero tipo="cel">55xxxxxx01</numero>
+		<email>exampl01@outlook.com</email>
+		<direccion>
+		  <calle>Calle 01</calle>
+		  <numero>Mz. 01 Lt. 01</numero>
+		  <colonia>Colonia 01</colonia>
+		  <estado>México</estado>
+		</direccion>
+	  </contacto>
+	  <contacto creador="Gerardo">
+		<nombre>Contacto 02</nombre>  
+		<numero tipo="cel">55xxxxxx02</numero>
+		<email>exampl02@outlook.com</email>
+		<direccion>
+		  <calle>Calle 02</calle>
+		  <numero>Mz. 02 Lt. 02</numero>
+		  <colonia>Colonia 02</colonia>
+		  <estado>México</estado>
+		</direccion>
+	  </contacto>
+	  <contacto creador="Gerardo">
+		<nombre>Contacto 03</nombre>  
+		<numero tipo="cel">55xxxxxx03</numero>
+		<email>exampl03@outlook.com</email>
+		<direccion>
+		  <calle>Calle 03</calle>
+		  <numero>Mz. 03 Lt. 03</numero>
+		  <colonia>Colonia 03</colonia>
+		  <estado>México</estado>
+		</direccion>
+	  </contacto>
+	  <contacto creador="Gerardo">
+		<nombre>Contacto 4</nombre>  
+		<numero tipo="cel">55xxxxxx04</numero>
+		<email>exampl4@outlook.com</email>
+		<direccion>
+		  <calle>Calle 4</calle>
+		  <numero>Mz. 4 Lt. 4</numero>
+		  <colonia>Colonia 4</colonia>
+		  <estado>México</estado>
+		</direccion>
+	  </contacto>
+	  <contacto creador="Gerardo">
+		<nombre>Contacto 5</nombre>  
+		<numero tipo="casa">55xxxxxx05</numero>
+		<email>exampl5@outlook.com</email>
+		<direccion>
+		  <calle>Calle 5</calle>
+		  <numero>Mz. 5 Lt. 5</numero>
+		  <colonia>Colonia 5</colonia>
+		  <estado>México</estado>
+		</direccion>
+	  </contacto>
+	  <contacto creador="Gerardo">
+		<nombre>Contacto 6</nombre>  
+		<numero tipo="oficina">55xxxxxx06</numero>
+		<email>exampl6@outlook.com</email>
+		<direccion>
+		  <calle>Calle 6</calle>
+		  <numero>Mz. 6 Lt. 6</numero>
+		  <colonia>Colonia 6</colonia>
+		  <estado>México</estado>
+		</direccion>
+	  </contacto>
+	  <contacto creador="Gerardo">
+		<nombre>Contacto 7</nombre>  
+		<numero tipo="casa">55xxxxxx07</numero>
+		<email>exampl7@outlook.com</email>
+		<direccion>
+		  <calle>Calle 7</calle>
+		  <numero>Mz. 7 Lt. 7</numero>
+		  <colonia>Colonia 7</colonia>
+		  <estado>México</estado>
+		</direccion>
+	  </contacto>
+	  <contacto creador="Gerardo">
+		<nombre>Contacto 8</nombre>  
+		<numero tipo="cel">55xxxxxxxx</numero>
+		<email>exampl8@outlook.com</email>
+		<direccion>
+		  <calle>Calle 8</calle>
+		  <numero>Mz. 8 Lt. 8</numero>
+		  <colonia>Colonia 8</colonia>
+		  <estado>México</estado>
+		</direccion>
+	  </contacto>
+	  <contacto creador="Gerardo">
+		<nombre>Contacto 9</nombre>  
+		<numero tipo="oficina">55xxxxxxxx</numero>
+		<email>example9@outlook.com</email>
+		<direccion>
+		  <calle>Calle 9</calle>
+		  <numero>Mz. 9 Lt. 9</numero>
+		  <colonia>Colonia 9</colonia>
+		  <estado>México</estado>
+		</direccion>
+	  </contacto>
+	  <contacto creador="Gerardo">
+		<nombre>Contacto 10</nombre>  
+		<numero tipo="casa">55xxxxxxxx</numero>
+		<email>example10@outlook.com</email>
+		<direccion>
+		  <calle>Calle 10</calle>
+		  <numero>Mz. 10 Lt. 10</numero>
+		  <colonia>Colonia 10</colonia>
+		  <estado>México</estado>
+		</direccion>
+	  </contacto>
+	</agenda>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Listado de libros -->
+
+	<libros>
+	  <libro creador="Gerardo">
+		<autor>Autor 00</autor>
+		<titulo>Libro 00</titulo>
+		<lenguaje>Lenguaje 00</lenguaje>
+		<informacion>
+		  <editorial>Editorial 00</editorial>
+		  <año>xxxx</año>
+		  <edicion>2</edicion>
+		  <pais>xxxxxxxx10</pais>
+		</informacion>
+	  </libro>
+	  <libro creador="Gerardo">
+		<autor>Autor 01</autor>
+		<titulo>Libro 01</titulo>
+		<lenguaje>Lenguaje 01</lenguaje>
+		<informacion>
+		  <editorial>Editorial 01</editorial>
+		  <año>xxxx</año>
+		  <edicion>2</edicion>
+		  <pais>xxxxxxxx10</pais>
+		</informacion>
+	  </libro>
+
+	  <libro creador="Gerardo">
+		<autor>Autor 02</autor>
+		<titulo>Libro 02</titulo>
+		<lenguaje>Lenguaje 02</lenguaje>
+		<informacion>
+		  <editorial>Editorial 02</editorial>
+		  <año>xxxx</año>
+		  <edicion>2</edicion>
+		  <pais>xxxxxxxx10</pais>
+		</informacion>
+	  </libro>
+	  <libro creador="Gerardo">
+		<autor>Autor 03</autor>
+		<titulo>Libro 03</titulo>
+		<lenguaje>Lenguaje 03</lenguaje>
+		<informacion>
+		  <editorial>Editorial 03</editorial>
+		  <año>xxxx</año>
+		  <edicion>2</edicion>
+		  <pais>xxxxxxxx10</pais>
+		</informacion>
+	  </libro>
+
+	  <libro creador="Gerardo">
+		<autor>Autor 04</autor>
+		<titulo>Libro 04</titulo>
+		<lenguaje>Lenguaje 04</lenguaje>
+		<informacion>
+		  <editorial>Editorial 04</editorial>
+		  <año>xxxx</año>
+		  <edicion>2</edicion>
+		  <pais>xxxxxxxx10</pais>
+		</informacion>
+	  </libro>
+
+	  <libro creador="Gerardo">
+		<autor>Autor 05</autor>
+		<titulo>Libro 05</titulo>
+		<lenguaje>Lenguaje 05</lenguaje>
+		<informacion>
+		  <editorial>Editorial 05</editorial>
+		  <año>xxxx</año>
+		  <edicion>2</edicion>
+		  <pais>xxxxxxxx10</pais>
+		</informacion>
+	  </libro>
+
+	  <libro creador="Gerardo">
+		<autor>Autor 06</autor>
+		<titulo>Libro 06</titulo>
+		<lenguaje>Lenguaje 06</lenguaje>
+		<informacion>
+		  <editorial>Editorial 06</editorial>
+		  <año>xxxx</año>
+		  <edicion>2</edicion>
+		  <pais>xxxxxxxx10</pais>
+		</informacion>
+	  </libro>
+
+	  <libro creador="Gerardo">
+		<autor>Autor 07</autor>
+		<titulo>Libro 07</titulo>
+		<lenguaje>Lenguaje 07</lenguaje>
+		<informacion>
+		  <editorial>Editorial 07</editorial>
+		  <año>xxxx</año>
+		  <edicion>2</edicion>
+		  <pais>xxxxxxxx10</pais>
+		</informacion>
+	  </libro>
+
+	  <libro creador="Gerardo">
+		<autor>Autor 08</autor>
+		<titulo>Libro 08</titulo>
+		<lenguaje>Lenguaje 08</lenguaje>
+		<informacion>
+		  <editorial>Editorial 08</editorial>
+		  <año>xxxx</año>
+		  <edicion>2</edicion>
+		  <pais>xxxxxxxx10</pais>
+		</informacion>
+	  </libro>
+
+	  <libro creador="Gerardo">
+		<autor>Autor 09</autor>
+		<titulo>Libro 09</titulo>
+		<lenguaje>Lenguaje 09</lenguaje>
+		<informacion>
+		  <editorial>Editorial 09</editorial>
+		  <año>xxxx</año>
+		  <edicion>2</edicion>
+		  <pais>xxxxxxxx10</pais>
+		</informacion>
+	  </libro>
+
+	  <libro creador="Gerardo">
+		<autor>Autor 10</autor>
+		<titulo>Libro 10</titulo>
+		<lenguaje>Lenguaje 10</lenguaje>
+		<informacion>
+		  <editorial>Editorial 10</editorial>
+		  <año>xxxx</año>
+		  <edicion>2</edicion>
+		  <pais>xxxxxxxx10</pais>
+		</informacion>
+	  </libro>
+	</libros>
+	

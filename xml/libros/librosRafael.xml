@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Listado de libros -->
+	<libros>
+	  <libro creador="Rafael">
+	     <autor>Brian Kernighan y Dennis Ritchie</autor>
+	     <titulo>El lenguaje de programación C</titulo>
+	     <lenguaje>C</lenguaje>
+	     <informacion>
+		    <editorial>Porrua</editorial>
+		    <año>1978</año>
+		    <edicion>2da edicion</edicion>
+		    <pais>USA</pais>
+	     </informacion>
+       </libro>
+
+       <libro creador="Rafael">
+	     <autor>Francisco Javier Ceballos Sierra</autor>
+	     <titulo>Java (tm) 2: curso de programación</titulo>
+	     <lenguaje>Java</lenguaje>
+	     <informacion>
+		    <editorial>Alfaomega</editorial>
+		    <año>2000</año>
+		    <edicion>4ta edicion</edicion>
+		    <pais>USA</pais>
+	     </informacion>
+       </libro>
+
+       <libro creador="Rafael">
+	     <autor>Francisco Javier Ceballos Sierra</autor>
+	     <titulo>Microsoft Visual Basic .NET: curso de programación</titulo>
+	     <lenguaje>VB</lenguaje>
+	     <informacion>
+		    <editorial>Alfa Omega</editorial>
+		    <año>2007</año>
+		    <edicion>3ra edicion</edicion>
+		    <pais>USA</pais>
+	     </informacion>
+       </libro>
+
+       <libro creador="Rafael">
+	     <autor>Larry Wall y Tom Christiansen</autor>
+	     <titulo>Programming Perl</titulo>
+	     <lenguaje>Perl</lenguaje>
+	     <informacion>
+		    <editorial>O Relly</editorial>
+		    <año>2012</año>
+		    <edicion>4ta edicion</edicion>
+		    <pais>USA</pais>
+	     </informacion>
+       </libro>
+
+       <libro creador="Rafael">
+	     <autor>Martín Ramos Monso</autor>
+	     <titulo>Programacion Php</titulo>
+	     <lenguaje>php</lenguaje>
+	     <informacion>
+		    <editorial>O reilly</editorial>
+		    <año>2004</año>
+		    <edicion>2da edicion</edicion>
+		    <pais>USA</pais>
+	     </informacion>
+       </libro>
+
+       <libro creador="Rafael">
+	     <autor>Lynn Beighley, Michael Morrison</autor>
+	     <titulo>Head First PHP y MySQL: A Brain-Friendly Guide</titulo>
+	     <lenguaje> php y mysql</lenguaje>
+	     <informacion>
+		    <editorial>O reilly</editorial>
+		    <año>2008</año>
+		    <edicion>3ra edicion</edicion>
+		    <pais>USA</pais>
+	     </informacion>
+       </libro>
+
+       <libro creador="Rafael">
+	     <autor>Janet Valade</autor>
+	     <titulo>PHP y MYSQL para dummies</titulo>
+	     <lenguaje>php mysql</lenguaje>
+	     <informacion>
+		    <editorial>O reilly</editorial>
+		    <año>2002</año>
+		    <edicion>4ta edicion</edicion>
+		    <pais>España</pais>
+	     </informacion>
+       </libro>
+
+       <libro creador="Rafael">
+	     <autor>AGUSTIN AUTOR FROUFE QUINTAS</autor>
+	     <titulo>Java 2 : manual de usuario y tutorial</titulo>
+	     <lenguaje>java</lenguaje>
+	     <informacion>
+		    <editorial>Alfa Omega</editorial>
+		    <año>1999</año>
+		    <edicion>1 edicion</edicion>
+		    <pais>España</pais>
+	     </informacion>
+       </libro>
+
+       <libro creador="Rafael">
+	     <autor>Francisco Javier Ceballos Sierra</autor>
+	     <titulo>C/C++ curso de programación</titulo>
+	     <lenguaje>C++</lenguaje>
+	     <informacion>
+		    <editorial>RA-MA</editorial>
+		    <año>1995</año>
+		    <edicion>1 edicion</edicion>
+		    <pais>España</pais>
+	     </informacion>
+       </libro>
+
+       <libro creador="Rafael">
+	     <autor>José Enrique Amaro Soriano</autor>
+	     <titulo>El gran libro de programación avanzada con Android</titulo>
+	     <lenguaje>Android</lenguaje>
+	     <informacion>
+		    <editorial>Marcombo</editorial>
+		    <año>2012</año>
+		    <edicion>3 edicion</edicion>
+		    <pais>Mexico</pais>
+	     </informacion>
+       </libro>
+    </libros>

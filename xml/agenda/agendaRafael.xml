@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Listado de contactos -->
+	<agenda>	
+		<contacto creador="Rafael">
+			<nombre>Rafael Rodriguez Valdez</nombre>
+			<numero tipo="celular">5543750990</numero>
+			<email>rrv9606infofesc@gmail.com</email>
+			<direccion>
+				<calle> primera cerrada ramon guzman</calle>
+				<numero>3</numero>
+				<colonia>San bartolo</colonia>
+				<estado>Estado de México</estado>
+			</direccion>
+		</contacto>
+
+		<contacto creador="Rafael">
+			<nombre>Ricardo sanchez lopez</nombre>
+			<numero tipo="celular">5541789018</numero>
+			<email>ricinfo99@gmail.com</email>
+			<direccion>
+				<calle>lirios</calle>
+				<numero>10</numero>
+				<colonia>Jardines de la hacienda</colonia>
+				<estado>Estado de México</estado>
+			</direccion>
+		</contacto>
+
+		<contacto creador="Rafael">
+			<nombre>Pablo Alberto Cigarrero</nombre>
+			<numero tipo="celular">5547982164</numero>
+			<email>cigarreropablo@gmail.com</email>
+			<direccion>
+				<calle>Av Hidalgo</calle>
+				<numero>s/n</numero>
+				<colonia>Conejos</colonia>
+				<estado>Hidalgo</estado>
+			</direccion>
+		</contacto>
+
+		<contacto creador="Rafael">
+			<nombre>David Chavez Lopez</nombre>
+			<numero tipo="celular">5543531789</numero>
+			<email>divadchl@gmail.com</email>
+			<direccion>
+				<calle>Doctor martinez del rio</calle>
+				<numero>185 inf 503</numero>
+				<colonia>Doctores</colonia>
+				<estado>Ciudad México</estado>
+			</direccion>
+		</contacto>
+
+		<contacto creador="Rafael">
+			<nombre>Gerardo Manuel Gutierrez</nombre>
+			<numero tipo="celular">5540584252</numero>
+			<email>gerardo_manuel@outlook.com</email>
+			<direccion>
+				<calle>Godorniz</calle>
+				<numero> Manzana 25 lote 2</numero>
+				<colonia>Valle de tules</colonia>
+				<estado>Estado de México</estado>
+			</direccion>
+		</contacto>
+
+		<contacto creador="Rafael">
+			<nombre>Osvaldo Corona Aranda</nombre>
+			<numero tipo="celular">5539630138</numero>
+			<email>osval.aspal@gmail.com</email>
+			<direccion>
+				<calle>Otilio Montaño</calle>
+				<numero>4</numero>
+				<colonia>Izcalli</colonia>
+				<estado>Estado de Mexico</estado>
+			</direccion>
+		</contacto>
+
+		<contacto creador="Rafael">
+			<nombre>Samuel perez vazquez</nombre>
+			<numero tipo="celular">5582226026</numero>
+			<email>samy211227@gmail.com</email>
+			<direccion>
+				<calle>Uxmal</calle>
+				<numero>8</numero>
+				<colonia>tikal</colonia>
+				<estado>Estado de Mexico</estado>
+			</direccion>
+		</contacto>
+
+		<contacto creador="Rafael">
+			<nombre>Citlalli Sarahi Alcantara Silva</nombre>
+			<numero tipo="celular">5560529794</numero>
+			<email>citlalli.csas@gmail.com</email>
+			<direccion>
+				<calle>Guarda bosques</calle>
+				<numero>24</numero>
+				<colonia>Bosques de la hacienda</colonia>
+				<estado>Estado de Mexico</estado>
+			</direccion>
+		</contacto>
+
+		<contacto creador="Rafael">
+			<nombre>maria cecilia hernandez solis</nombre>
+			<numero tipo="celular">5576026616</numero>
+			<email>epo11.comunicacion@gmail.com</email>
+			<direccion>
+				<calle>villas de cortes </calle>
+				<numero>14</numero>
+				<colonia>villas de cuautitlan</colonia>
+				<estado>Estado de Mexico</estado>
+			</direccion>
+		</contacto>
+
+		<contacto creador="Rafael">
+			<nombre>Liliana dimas</nombre>
+			<numero tipo="celular">5545561474</numero>
+			<email>lylidimas.unam.30@gmail.com</email>
+			<direccion>
+				<calle>jazmin</calle>
+				<numero>11</numero>
+				<colonia>Tepozotlan</colonia>
+				<estado>Estado de Mexico</estado>
+			</direccion>
+		</contacto>
+	</agenda>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Listado de discos -->
+
+	<discos>
+		<disco creador="Pablo">
+					<grupo>The Killers</grupo>
+					<genero>Metal</genero>
+					<nombredisco>Rust In Peace</nombredisco>
+			<datos>
+					<año>2004</año>
+				<no_tracks>9</no_tracks>
+					<tiempoduracion>40:44</tiempoduracion>
+					<sellodiscografico>Rumbo Recorders</sellodiscografico>
+			</datos>
+		</disco>
+		<disco creador="Pablo">
+					<grupo>AC/DC</grupo>
+					<genero>Hard Rock</genero>
+					<nombredisco>Mezmerize</nombredisco>
+			<datos>
+					<año>2005</año>
+					<no_tracks>11</no_tracks>
+					<tiempoduracion>36:11</tiempoduracion>
+					<sellodiscografico>American Recordings,Columbia Records</sellodiscografico>
+			</datos>
+		</disco>
+		<disco creador="Pablo">
+					<grupo>Artic Monkeys</grupo>
+					<genero>Indie Rock</genero>
+					<nombredisco>AM</nombredisco>
+			<datos>
+					<año>2013</año>
+					<no_tracks>12</no_tracks>
+					<tiempoduracion>41:43</tiempoduracion>
+					<sellodiscografico>Sage &amp; Sound Recording</sellodiscografico>
+			</datos>
+		</disco>
+		<disco creador="Pablo">
+					<grupo>The doors</grupo>
+					<genero>Rock</genero>
+					<nombredisco>The future starts here</nombredisco>
+			<datos>
+					<año>1966</año>
+					<no_tracks>20</no_tracks>
+					<tiempoduracion>78:53</tiempoduracion>
+					<sellodiscografico>Elektra-Rhino</sellodiscografico>
+			</datos>
+		</disco>
+		<disco creador="Pablo">
+					<grupo>The Beatles</grupo>
+					<genero>Rock Alternativo</genero>
+					<nombredisco>Sawdust</nombredisco>
+			<datos>
+					<año>2007</año>
+					<no_tracks>17</no_tracks>
+					<tiempoduracion>72:13</tiempoduracion>
+					<sellodiscografico>Island,Vertigo</sellodiscografico>
+			</datos>
+		</disco>
+		<disco creador="Pablo">
+					<grupo>DeadMau5</grupo>
+					<genero>House</genero>
+					<nombredisco>For Lack of a Better Name</nombredisco>
+			<datos>
+					<año>2009</año>
+					<no_tracks>10</no_tracks>
+					<tiempoduracion>65:52</tiempoduracion>
+					<sellodiscografico>Elektra-Rhino</sellodiscografico>
+			</datos>
+		</disco>
+		<disco creador="Pablo">
+					<grupo>Vitas</grupo>
+					<genero>Operatic Pop</genero>
+					<nombredisco>Philosophy of Miracle</nombredisco>
+			<datos>
+					<año>2001</año>
+					<no_tracks>13</no_tracks>
+					<tiempoduracion>57:52</tiempoduracion>
+					<sellodiscografico>Iceberg</sellodiscografico>
+			</datos>
+		</disco>
+		<disco creador="Pablo">
+					<grupo>The Best</grupo>
+					<genero>Rock</genero>
+					<nombredisco>Abbey Road</nombredisco>
+				<datos>
+					<año>1969</año>
+					<no_tracks>17</no_tracks>
+					<tiempoduracion>47:24</tiempoduracion>
+					<sellodiscografico>EMI Studios, Apple Studios, Trident Studios </sellodiscografico>
+			</datos>
+		</disco>
+		<disco creador="Pablo">
+					<grupo>Disturbed</grupo>
+					<genero>Metal Alternativo</genero>
+					<nombredisco>Ten Thousand Fists</nombredisco>
+			<datos>
+					<año>2005</año>
+					<no_tracks>14</no_tracks>
+					<tiempoduracion>56:22</tiempoduracion>
+					<sellodiscografico>Grovermaster Studios</sellodiscografico>
+			</datos>
+		</disco>
+		<disco creador="Pablo">
+					<grupo>Slayer</grupo>
+					<genero>Trash Metal</genero>
+					<nombredisco>Reign in Blood</nombredisco>
+			<datos>
+					<año>1986</año>
+					<no_tracks>12</no_tracks>
+					<tiempoduracion>34:40</tiempoduracion>
+					<sellodiscografico>Epitaph Records
+	Def Jam Recordings</sellodiscografico>
+			</datos>
+		</disco>
+
+
+	</discos>

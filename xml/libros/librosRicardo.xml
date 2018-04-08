@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Listado de libros -->
+
+	<libros>
+		<libro creador="Ricardo">
+			<autor>Paul Fenwich</autor>
+			<titulo>progrsmming Perl</titulo>
+			<lenguaje>Perl</lenguaje>
+			<informacion>
+				<editorial>Auotedición</editorial>
+				<año>2011</año>
+				<edicion>1</edicion>
+				<pais>E.U.</pais>
+			</informacion>
+		</libro>
+		<libro creador="Ricardo">
+			<autor>David Mertz</autor>
+			<titulo>Functional Programming in Python</titulo>
+			<lenguaje>Python</lenguaje>
+			<informacion>
+				<editorial>O'Reilly</editorial>
+				<año>2015</año>
+				<edicion>4</edicion>
+				<pais>E.U.</pais>
+			</informacion>
+		</libro>
+		<libro creador="Ricardo">
+			<autor>Jesús Calleja</autor>
+			<titulo>Aprenda Java como si estuviera en primero</titulo>
+			<lenguaje>Java</lenguaje>
+			<informacion>
+				<editorial>tecnun</editorial>
+				<año>2000</año>
+				<edicion>1</edicion>
+				<pais>España</pais>
+			</informacion>
+		</libro>
+		<libro creador="Ricardo">
+			<autor>Jorge Martínez</autor>
+			<titulo>Fundamentos de programacioón en java</titulo>
+			<lenguaje>Java</lenguaje>
+			<informacion>
+				<editorial>EME</editorial>
+				<año>2012</año>
+				<edicion>3</edicion>
+				<pais>España</pais>
+			</informacion>
+		</libro>
+		<libro creador="Ricardo">
+			<autor>Deitel y Deitel</autor>
+			<titulo>Cómo programar en C/C++ y java</titulo>
+			<lenguaje>C/C++ y java</lenguaje>
+			<informacion>
+				<editorial>Pearson</editorial>
+				<año>2004</año>
+				<edicion>4</edicion>
+				<pais>México</pais>
+			</informacion>
+		</libro>
+		<libro creador="Ricardo">
+			<autor>Ralph Morelli</autor>
+			<titulo>Java, Java, Java: Object-Oriented Problem Solving</titulo>
+			<lenguaje>Java</lenguaje>
+			<informacion>
+				<editorial>Trinity College</editorial>
+				<año>2016</año>
+				<edicion>4</edicion>
+				<pais>E.U.</pais>
+			</informacion>
+		</libro>
+		<libro creador="Ricardo">
+			<autor>Sebastian Bergmann</autor>
+			<titulo>PHP Unit Manual</titulo>
+			<lenguaje>PHP</lenguaje>
+			<informacion>
+				<editorial>Autoedición</editorial>
+				<año>2013</año>
+				<edicion>1</edicion>
+				<pais>E.U.</pais>
+			</informacion>
+		</libro>
+		<libro creador="Ricardo">
+			<autor>Eugenia Bahit</autor>
+			<titulo>Programador PHP</titulo>
+			<lenguaje>PHP</lenguaje>
+			<informacion>
+				<editorial>Autoedición</editorial>
+				<año>2012</año>
+				<edicion>2</edicion>
+				<pais>España</pais>
+			</informacion>
+		</libro>
+		<libro creador="Ricardo">
+			<autor>Phil Sturgeon</autor>
+			<titulo>PHP The Right Way</titulo>
+			<lenguaje>PHP</lenguaje>
+			<informacion>
+				<editorial>Autoedición</editorial>
+				<año>2015</año>
+				<edicion>1</edicion>
+				<pais>E.U.</pais>
+			</informacion>
+		</libro>
+		<libro creador="Ricardo">
+			<autor>Nacho Cabanes</autor>
+			<titulo>Introducción a la programación con C#</titulo>
+			<lenguaje>C#</lenguaje>
+			<informacion>
+				<editorial>Autoedición</editorial>
+				<año>2012</año>
+				<edicion>2</edicion>
+				<pais>México</pais>
+			</informacion>
+		</libro>
+	</libros>

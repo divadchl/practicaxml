@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Listado de discos -->
+
+	<discos>
+		<disco creador="Ricardo">
+			<grupo>Café Tacuba</grupo>
+			<genero>rock alternativo</genero>
+			<nombredisco>Cuatro caminos</nombredisco>
+			<datos>
+				<año>2003</año>
+				<no_tracks>14</no_tracks>
+				<tiempoduracion>53:07</tiempoduracion>
+				<sellodiscografico>Universal Music México</sellodiscografico>
+			</datos>
+		</disco>
+		<disco creador="Ricardo">
+			<grupo>Café Tacuba</grupo>
+			<genero>Rock alternativo</genero>
+			<nombredisco>Sino</nombredisco>
+			<datos>
+				<año>2007</año>
+				<no_tracks>15</no_tracks>
+				<tiempoduracion>58:11</tiempoduracion>
+				<sellodiscografico>Universal music</sellodiscografico>
+			</datos>
+		</disco>
+		<disco creador="Ricardo">
+			<grupo>Café Tacuba</grupo>
+			<genero>Rock</genero>
+			<nombredisco>Tiempo transcurrido</nombredisco>
+			<datos>
+				<año>2001</año>
+				<no_tracks>22</no_tracks>
+				<tiempoduracion>74:32</tiempoduracion>
+				<sellodiscografico>Warner Music</sellodiscografico>
+			</datos>
+		</disco>
+		<disco creador="Ricardo">
+			<grupo>Café Tacuba</grupo>
+			<genero>Rock</genero>
+			<nombredisco>Avalancha de éxitos</nombredisco>
+			<datos>
+				<año>1996</año>
+				<no_tracks>8</no_tracks>
+				<tiempoduracion>39:42</tiempoduracion>
+				<sellodiscografico>Warner Music</sellodiscografico>
+			</datos>
+		</disco>
+		<disco creador="Ricardo">
+			<grupo>Lyndset Stirling</grupo>
+			<genero>Dubstep</genero>
+			<nombredisco>Lyndset Stirling</nombredisco>
+			<datos>
+				<año>2012</año>
+				<no_tracks>12</no_tracks>
+				<tiempoduracion>45:11</tiempoduracion>
+				<sellodiscografico>BridgeTone</sellodiscografico>
+			</datos>
+		</disco>
+		<disco creador="Ricardo">
+			<grupo>Lyndset Stirling</grupo>
+			<genero>Electro House</genero>
+			<nombredisco>Brave Enough</nombredisco>
+			<datos>
+				<año>2016</año>
+				<no_tracks>14</no_tracks>
+				<tiempoduracion>55:21</tiempoduracion>
+				<sellodiscografico>Lyndseystomp/Universal</sellodiscografico>
+			</datos>
+		</disco>
+		<disco creador="Ricardo">
+			<grupo>Lyndset Stirling</grupo>
+			<genero>´Navideño</genero>
+			<nombredisco>Warmer in the Winter</nombredisco>
+			<datos>
+				<año>2017</año>
+				<no_tracks>13</no_tracks>
+				<tiempoduracion>42:52</tiempoduracion>
+				<sellodiscografico>Lynseystomp</sellodiscografico>
+			</datos>
+		</disco>
+		<disco creador="Ricardo">
+			<grupo>Era</grupo>
+			<genero>New-age</genero>
+			<nombredisco>Era</nombredisco>
+			<datos>
+				<año>1996</año>
+				<no_tracks>13</no_tracks>
+				<tiempoduracion>42:48</tiempoduracion>
+				<sellodiscografico>Tranman Entertainment B.V</sellodiscografico>
+			</datos>
+		</disco>
+		<disco creador="Ricardo">
+			<grupo>Era</grupo>
+			<genero>New-age</genero>
+			<nombredisco>Era 2</nombredisco>
+			<datos>
+				<año>200</año>
+				<no_tracks>10</no_tracks>
+				<tiempoduracion></tiempoduracion>
+				<sellodiscografico>Mercury Records</sellodiscografico>
+			</datos>
+		</disco>
+		<disco creador="Ricardo">
+			<grupo>Avicii</grupo>
+			<genero>Electro house</genero>
+			<nombredisco>True</nombredisco>
+			<datos>
+				<año>2014</año>
+				<no_tracks>9</no_tracks>
+				<tiempoduracion>50:30</tiempoduracion>
+				<sellodiscografico>Universal Island</sellodiscografico>
+			</datos>
+		</disco>
+	</discos>
+	
